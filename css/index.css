@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+nav{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(140, 11, 239);
+}
+.line1{
+    width: 120px;
+    height: 5px;
+    background-color: white;
+}
+
+.line2{
+    width: 30px;
+    height: 1px;
+    margin-top: 20px;
+    margin-left:90px ;
+    background-color: white;
+}
+.matn{
+    width: 100%;
+    height: 100vh;
+}
+.p1{
+    font-size: 60px; 
+}
+.p1 ins{
+    font-size: 80px; 
+    font-weight: bolder;
+}
+.h2-size{
+    font-size: 60px;
+    font-weight: bolder;
+}
+.bg-f6{
+    background-color: #f6f6f6;
+}
